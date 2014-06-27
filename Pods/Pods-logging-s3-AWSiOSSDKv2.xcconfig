@@ -1,0 +1,1 @@
+PODS_LOGGING_S__AWSIOSSDKV__OTHER_LDFLAGS = -lsqlite3 -lz -framework Foundation -framework UIKit

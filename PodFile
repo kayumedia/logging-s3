@@ -1,0 +1,10 @@
+platform :ios, "7.1"
+
+target "logging-s3" do
+  pod 'AWSiOSSDKv2'
+end
+
+target "logging-s3Tests" do
+
+end
+
